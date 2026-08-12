@@ -1,0 +1,2 @@
+Open http://localhost:3000, authenticate with a test account, connect a Plaid Sandbox institution, and review transactions and account categories. Document transfer behavior only after validating the recovered implementation.
+
