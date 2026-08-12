@@ -1,0 +1,1 @@
+Users often need one view of activity across several financial accounts. The application uses Plaid integrations to retrieve transaction history and organize activity by account and category while Next.js server-side rendering supports a responsive experience.
