@@ -1,0 +1,7 @@
+
+flowchart LR
+    A[User] --> B[Next.js UI]
+    B --> C[Server actions or API]
+    C --> D[Plaid API]
+    C --> E[Application database]
+    C --> F[Sentry]
