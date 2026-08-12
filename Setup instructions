@@ -1,0 +1,9 @@
+
+git clone https://github.com/jadenyangaresi/banking-app.git
+cd banking-app
+npm install
+cp .env.example .env.local
+npm run dev
+
+Populate only local test credentials. Never commit Plaid secrets, access tokens, or real financial data.
+
