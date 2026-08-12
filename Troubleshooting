@@ -1,0 +1,7 @@
+Plaid link fails: confirm sandbox keys, redirect URI, and environment selection.
+
+Server/client mismatch: keep secrets and privileged API calls server-side.
+
+No transactions: verify the test institution, date range, and cursor-based synchronization.
+
+Sentry events absent: check DSN and environment-specific initialization.
